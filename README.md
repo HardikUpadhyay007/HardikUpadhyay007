@@ -56,10 +56,9 @@
 ---
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge?url=https://github.com/HardikUpadhyay007&count_bg=%2338B2AC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
-  </a>
+  <img src="https://img.shields.io/badge/Profile%20Views-000000?style=flat&logo=github&logoColor=white"/>
 </p>
+
 
 
 ---
