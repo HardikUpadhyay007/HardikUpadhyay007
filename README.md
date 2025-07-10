@@ -56,8 +56,11 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HardikUpadhyay007&icon=2&color=12" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge?url=https://github.com/HardikUpadhyay007&count_bg=%2338B2AC&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
+  </a>
 </p>
+
 
 ---
 
